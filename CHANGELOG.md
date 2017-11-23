@@ -1,3 +1,17 @@
+## [2.4.0] (2017-11-23)
+
+
+### Features
+
+* Add WebView version detector
+* Add language options
+
+
+### Improvement
+
+* Update to ionic 3.9.2 and angular 5
+
+
 ## 2.3.0 (2017-08-18)
 
 
